@@ -20,7 +20,7 @@ Imagine a set of instructions from IKEA as the *Class*, and your
 assembled Fthugënbøller bookcase as the *object*.
 
 JavaScript uses prototypal OO. Instead of creating a nonfunctional class
-definition, we actually create the object, which is then used as a
+definition, we actually create the object, which is then used as aa
 prototype to create other objects.
 
 In the real world, this would be like taking a bunch of laminated wood
